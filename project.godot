@@ -11,7 +11,7 @@ config_version=5
 [application]
 
 config/name="Procedural_Content"
-run/main_scene="uid://cg1ji0h13aouy"
+run/main_scene="uid://b2kq4cmuv0esk"
 config/features=PackedStringArray("4.4", "C#", "Forward Plus")
 config/icon="res://icon.svg"
 
